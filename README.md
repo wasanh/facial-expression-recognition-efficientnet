@@ -6,8 +6,9 @@ This repository contains the implementation and experimental results of a facial
 The project proposes an EfficientNet-based convolutional neural network enhanced with Squeeze-and-Excitation (SE) attention mechanisms to improve discriminative feature learning. To address class imbalance in a custom-collected facial expression dataset, weighted sampling and Focal Loss are employed during training.
 
 ## Repository Structure
-- `code/`: Implementation of the proposed FER model and training pipeline
-- `paper/`: Final project paper in PDF format
+## Repository Structure
+- `notebook/`: Training and evaluation code
+- `paper/`: Full project paper (PDF)
 
 ## Dataset
 The dataset used in this project is a custom-collected facial expression dataset. Due to privacy and ethical considerations, the dataset is not publicly released.
